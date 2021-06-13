@@ -1,0 +1,9 @@
+insert into Usuario (nombre, correo, contraseña) values ('Pavia', 'poglethorpe0@usnews.com', '7BvmjjFg');
+insert into Usuario (nombre, correo, contraseña) values ('Dom', 'dbrevitt1@example.com', '2Zocz4l');
+insert into Usuario (nombre, correo, contraseña) values ('Egor', 'edacks2@reuters.com', 'yfA3fiFQX');
+insert into Usuario (nombre, correo, contraseña) values ('Charlotta', 'ccockshutt3@addtoany.com', 'J9nfo3Qb');
+insert into Usuario (nombre, correo, contraseña) values ('Seana', 'shinckley4@woothemes.com', '6N4JBsjxUtQ');
+insert into Usuario (nombre, correo, contraseña) values ('Mareah', 'mbraunds5@aol.com', '92oSbhDZpb');
+insert into Usuario (nombre, correo, contraseña) values ('Audi', 'alemmers6@ucoz.ru', 'a9YVcSTSxT2');
+insert into Usuario (nombre, correo, contraseña) values ('Eduino', 'edobbson7@issuu.com', 'gqK2mXCCtRx');
+insert into Usuario (nombre, correo, contraseña) values ('Patricia', 'piwanicki8@xing.com', 'ewUPh9kS');

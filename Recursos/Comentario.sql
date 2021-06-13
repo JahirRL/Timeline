@@ -1,0 +1,10 @@
+insert into Comentario (contenido, idPost, idUsuario) values ('tincidunt eget tempus vel pede morbi porttitor lorem id ligula', 4, 1);
+insert into Comentario (contenido, idPost, idUsuario) values ('nulla justo aliquam quis turpis eget elit sodales scelerisque', 4, 9);
+insert into Comentario (contenido, idPost, idUsuario) values ('erat id mauris vulputate elementum nullam varius nulla facilisi', 5, 4);
+insert into Comentario (contenido, idPost, idUsuario) values ('odio odio elementum eu interdum eu tincidunt in leo maecenas', 3, 4);
+insert into Comentario (contenido, idPost, idUsuario) values ('ut massa quis augue luctus tincidunt nulla mollis', 7, 6);
+insert into Comentario (contenido, idPost, idUsuario) values ('lacus curabitur at ipsum ac tellus semper interdum mauris', 9, 9);
+insert into Comentario (contenido, idPost, idUsuario) values ('non mattis pulvinar nulla pede ullamcorper augue a', 2, 9);
+insert into Comentario (contenido, idPost, idUsuario) values ('orci pede venenatis non sodales sed tincidunt eu felis', 8, 3);
+insert into Comentario (contenido, idPost, idUsuario) values ('duis faucibus accumsan odio curabitur convallis duis consequat dui nec', 2, 8);
+insert into Comentario (contenido, idPost, idUsuario) values ('duis bibendum morbi non quam nec dui luctus rutrum', 7, 4);
